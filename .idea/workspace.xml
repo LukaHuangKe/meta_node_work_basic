@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae71b8dd-0c15-4492-b8c1-b5a6fdf5d905" name="更改" comment="change">
-      <change afterPath="$PROJECT_DIR$/phase2/solidity_advance/lesson7.1/order_system.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phase2/solidity_advance/lesson7.1/order_system_analyze.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="ae71b8dd-0c15-4492-b8c1-b5a6fdf5d905" name="更改" comment="lesson7.1">
+      <change afterPath="$PROJECT_DIR$/phase2/solidity_advance/lesson7.2/defi_protocol.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phase2/solidity_advance/lesson7.2/lending_protocol.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phase2/solidity_advance/lesson7.2/token_swap.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,7 +284,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="go basic homework" />
     <MESSAGE value="go advance homework 1~6" />
     <MESSAGE value="go advance homework rest" />
     <MESSAGE value="gorm初始化" />
@@ -309,7 +308,8 @@
     <MESSAGE value="add npm" />
     <MESSAGE value="lesson6.2" />
     <MESSAGE value="change" />
-    <option name="LAST_COMMIT_MESSAGE" value="change" />
+    <MESSAGE value="lesson7.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson7.1" />
   </component>
   <component name="VgoModernizerVersionTracker">
     <upgrades>
