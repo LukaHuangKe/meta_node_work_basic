@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae71b8dd-0c15-4492-b8c1-b5a6fdf5d905" name="更改" comment="lesson7.2">
-      <change afterPath="$PROJECT_DIR$/phase2/solidity_advance/lesson8.1/multi_sig_wallet.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phase2/solidity_advance/lesson8.1/proxy.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phase2/solidity_advance/lesson8.1/test1.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phase2/solidity_advance/lesson8.1/test2.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ae71b8dd-0c15-4492-b8c1-b5a6fdf5d905" name="更改" comment="lesson8.1">
+      <change beforePath="$PROJECT_DIR$/phase2/solidity_advance/lesson8.1/test2.sol" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,7 +281,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="go advance homework rest" />
     <MESSAGE value="gorm初始化" />
     <MESSAGE value="gorm basic study" />
     <MESSAGE value="gorm advance study" />
@@ -310,7 +305,8 @@
     <MESSAGE value="change" />
     <MESSAGE value="lesson7.1" />
     <MESSAGE value="lesson7.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson7.2" />
+    <MESSAGE value="lesson8.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson8.1" />
   </component>
   <component name="VgoModernizerVersionTracker">
     <upgrades>
